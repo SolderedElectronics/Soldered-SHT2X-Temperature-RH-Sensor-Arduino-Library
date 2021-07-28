@@ -4,8 +4,6 @@ var files_dup =
     [ "easyC.h", "easy_c_8h.html", [
       [ "EasyC", "class_easy_c.html", "class_easy_c" ]
     ] ],
-    [ "Generic-easyC-SOLDERED.cpp", "_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html", null ],
-    [ "Generic-easyC-SOLDERED.h", "_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html", [
-      [ "Sensor", "class_sensor.html", "class_sensor" ]
-    ] ]
+    [ "SHT2X-SOLDERED.cpp", "_s_h_t2_x-_s_o_l_d_e_r_e_d_8cpp.html", null ],
+    [ "SHT2X-SOLDERED.h", "_s_h_t2_x-_s_o_l_d_e_r_e_d_8h.html", "_s_h_t2_x-_s_o_l_d_e_r_e_d_8h" ]
 ];

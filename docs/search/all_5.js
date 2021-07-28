@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['initializenative_10',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['gethumidity_11',['getHumidity',['../class_s_h_t21.html#a59a25b06ef0f84ab5c02e460fa462604',1,'SHT21']]],
+  ['getserialnumber_12',['getSerialNumber',['../class_s_h_t21.html#abde4294ee2623b2d98af38e149a213e4',1,'SHT21']]],
+  ['gettemperature_13',['getTemperature',['../class_s_h_t21.html#a29426b2fb877cd034629aa2b8c208454',1,'SHT21']]]
 ];

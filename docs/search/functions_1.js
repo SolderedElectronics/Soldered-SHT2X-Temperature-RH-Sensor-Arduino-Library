@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['easyc_28',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['calcrh_38',['CalcRH',['../class_s_h_t21.html#a948da825ead2b8a1a396c11ec2d2ff85',1,'SHT21']]],
+  ['calct_39',['CalcT',['../class_s_h_t21.html#a4262a3c3703166552f9f0d2bac8d2713',1,'SHT21']]],
+  ['crc_5fchecksum_40',['CRC_Checksum',['../class_s_h_t21.html#ab2973ccb619c2cfcf6496f93e4161978',1,'SHT21']]]
 ];
