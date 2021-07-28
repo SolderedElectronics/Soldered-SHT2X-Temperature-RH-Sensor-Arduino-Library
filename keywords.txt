@@ -11,6 +11,10 @@
 ##################################################
 
 begin	KEYWORD2
+getHumidity KEYWORD2
+getTemperature KEYWORD2
+reset KEYWORD2
+getSerialNumber KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
