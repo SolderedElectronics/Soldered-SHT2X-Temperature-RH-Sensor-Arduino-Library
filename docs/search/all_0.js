@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['address_0',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC']]]
+  ['begin_0',['begin',['../class_s_h_t21.html#ad4a7df6394ada38fdfa416633ba73383',1,'SHT21']]]
 ];

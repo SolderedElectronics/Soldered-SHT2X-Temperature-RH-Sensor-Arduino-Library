@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['calcrh_3',['CalcRH',['../class_s_h_t21.html#a948da825ead2b8a1a396c11ec2d2ff85',1,'SHT21']]],
-  ['calct_4',['CalcT',['../class_s_h_t21.html#a4262a3c3703166552f9f0d2bac8d2713',1,'SHT21']]],
-  ['crc_5fchecksum_5',['CRC_Checksum',['../class_s_h_t21.html#ab2973ccb619c2cfcf6496f93e4161978',1,'SHT21']]]
+  ['gethumidity_4',['getHumidity',['../class_s_h_t21.html#a59a25b06ef0f84ab5c02e460fa462604',1,'SHT21']]],
+  ['getserialnumber_5',['getSerialNumber',['../class_s_h_t21.html#abde4294ee2623b2d98af38e149a213e4',1,'SHT21']]],
+  ['gettemperature_6',['getTemperature',['../class_s_h_t21.html#a29426b2fb877cd034629aa2b8c208454',1,'SHT21']]]
 ];

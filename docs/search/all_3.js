@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['defaultaddress_6',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['polynomial_7',['POLYNOMIAL',['../_s_h_t2_x-_s_o_l_d_e_r_e_d_8h.html#abf5017de706646dea4eb3d7d478f0b22',1,'SHT2X-SOLDERED.h']]]
 ];

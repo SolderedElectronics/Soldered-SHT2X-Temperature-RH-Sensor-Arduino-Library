@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['gethumidity_42',['getHumidity',['../class_s_h_t21.html#a59a25b06ef0f84ab5c02e460fa462604',1,'SHT21']]],
-  ['getserialnumber_43',['getSerialNumber',['../class_s_h_t21.html#abde4294ee2623b2d98af38e149a213e4',1,'SHT21']]],
-  ['gettemperature_44',['getTemperature',['../class_s_h_t21.html#a29426b2fb877cd034629aa2b8c208454',1,'SHT21']]]
+  ['readsensor_5fhm_28',['readSensor_hm',['../class_s_h_t21.html#a0310180b2968eda633fd9a1a05485ae5',1,'SHT21']]],
+  ['reset_29',['reset',['../class_s_h_t21.html#a2a1208ef7168677d39b268ee83d322c6',1,'SHT21']]]
 ];

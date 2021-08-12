@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['begin_1',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)'],['../class_s_h_t21.html#ad4a7df6394ada38fdfa416633ba73383',1,'SHT21::begin()']]],
-  ['begindone_2',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]]
+  ['calcrh_1',['CalcRH',['../class_s_h_t21.html#a948da825ead2b8a1a396c11ec2d2ff85',1,'SHT21']]],
+  ['calct_2',['CalcT',['../class_s_h_t21.html#a4262a3c3703166552f9f0d2bac8d2713',1,'SHT21']]],
+  ['crc_5fchecksum_3',['CRC_Checksum',['../class_s_h_t21.html#ab2973ccb619c2cfcf6496f93e4161978',1,'SHT21']]]
 ];

@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['easyc_41',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['gethumidity_25',['getHumidity',['../class_s_h_t21.html#a59a25b06ef0f84ab5c02e460fa462604',1,'SHT21']]],
+  ['getserialnumber_26',['getSerialNumber',['../class_s_h_t21.html#abde4294ee2623b2d98af38e149a213e4',1,'SHT21']]],
+  ['gettemperature_27',['getTemperature',['../class_s_h_t21.html#a29426b2fb877cd034629aa2b8c208454',1,'SHT21']]]
 ];
