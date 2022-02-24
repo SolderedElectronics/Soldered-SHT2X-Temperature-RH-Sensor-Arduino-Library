@@ -25,13 +25,13 @@ void setup()
 void loop()
 {
 
-    temp = sht.getTemperature();  // get temp from SHT
-    humidity = sht.getHumidity(); // get temp from SHT
+    temp = sht.getTemperature();  // get temperature from SHT
+    humidity = sht.getHumidity(); // get humidity from SHT
 
     Serial.print("Temp: "); // print readings
     Serial.print(temp);
     Serial.print("\t Humidity: ");
     Serial.println(humidity);
 
-    delay(85); // min delay for 14bit temp reading is 85ms
+    delay(85); // minimum delay for 14bit temp reading is 85ms
 }
