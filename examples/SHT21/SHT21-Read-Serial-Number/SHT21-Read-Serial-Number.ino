@@ -4,7 +4,6 @@
  * @file        SHT21-Read-Serial-Number.ino
  * @brief       Prints hardcored SHT21 Serial Number to Serial monitor.
  *
- *  Learn more about the board at https://solde.red/[_sku]
  *
  * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
