@@ -3,11 +3,6 @@
 [![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-SHT2X-Temperature-RH-Sensor-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-SHT2X-Temperature-RH-Sensor-Arduino-Library/actions/workflows/compile_test.yml)
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-SHT2X-Temperature-RH-Sensor-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-SHT2X-Temperature-RH-Sensor-Arduino-Library/actions/workflows/make_docs.yml)
 
-| ![SHT20 and SHT21 Soldered Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
-| :-------------------------------------------------------------------------------------------------------:|
-| [SHT21 Soldered Board](https://www.solde.red/[_sku])                                           |
-| [SHT20 Soldered Board](https://www.solde.red/[_sku])                                           |
-
 SHT2X humidity and temperature sensors, compliat to [easyC ecosystem](https://www.soldered.com/easyC). 
 
 ### Repository Contents
